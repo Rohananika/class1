@@ -1,0 +1,25 @@
+.headings{
+    text-align: center;
+    margin: auto;
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.paragraphs{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    size: 12px;
+    background-color: gray
+
+}
+
+img{
+    margin: auto;
+    width: 100%;
+}
+button{
+    border-radius: 25px;
+    color: lightblue;
+    background-color: green;
+
+}
